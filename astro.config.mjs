@@ -7,7 +7,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://ecarvajal12.github.io',
-	base: '/first-telecom-blog',
 	integrations: [mdx(), sitemap()],
 	// output: 'server',
   	// adapter: vercel(),
