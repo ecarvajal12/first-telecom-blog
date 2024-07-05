@@ -1,7 +1,7 @@
 ---
 title: 'Osciladores no sintonizados'
 description: 'Vibrando entre dos mundos'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jun 23 2024'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 

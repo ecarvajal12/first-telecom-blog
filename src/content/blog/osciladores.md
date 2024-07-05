@@ -1,7 +1,7 @@
 ---
 title: 'Osciladores'
 description: 'Vibrando entre dos mundos'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jun 18 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---
 
